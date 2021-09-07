@@ -1,0 +1,1 @@
+print("Virtual Image Drag and Drop using OpenCV Python")
